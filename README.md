@@ -1,7 +1,3 @@
-Absolutely! Here’s a professional, polished README.md tailored for your restaurant app — perfect for showcasing your work in a job interview.
-
-⸻
-
 🍽️ El Plato — Italian Restaurant Web App
 
 El Plato is a beautifully designed restaurant web application built using React and Tailwind CSS, offering a smooth and interactive user experience. The platform showcases a rich Italian menu, allows users to add items to their bill cart, and dynamically updates the total bill amount. It’s responsive, accessible, and developed with clean, modern frontend practices.
@@ -72,7 +68,9 @@ JSON (Local File)	Menu data storage & API simulation
 ⸻
 
 📁 Folder Structure
+### 📁 Folder Structure
 
+```
 src/
 ├── components/
 │   ├── Header/
@@ -86,7 +84,7 @@ src/
 │   └── menu.json
 ├── App.jsx
 └── main.jsx
-
+```
 
 ⸻
 
