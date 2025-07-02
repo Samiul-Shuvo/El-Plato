@@ -34,18 +34,16 @@ const Footer = () => {
         </div>
 
        
-        <div className="flex flex-wrap justify-center gap-6 text-gray-700 text-sm font-medium mb-4">
-          <a href="#" className="hover:text-green-700 transition">Home</a>
-          <a href="#" className="hover:text-green-700 transition">Menu</a>
-          <a href="#" className="hover:text-green-700 transition">About</a>
-          <a href="#" className="hover:text-green-700 transition">Contact</a>
-          <a href="#" className="hover:text-green-700 transition">Feedback</a>
-        </div>
+      
 
         
         <p className="text-xs text-gray-500">
           © {new Date().getFullYear()} El Plato. All rights reserved. Crafted with ❤️ in Italy.
         </p>
+        <div className="mt-2 text-gray-600 text-sm">
+          <p>📍 191/1 Tejgaon I/A, Dhaka | 🕒 Open: 5 PM – 12 AM</p>
+          <p>📞 Call us: +880 1234-567890 | 🍷 Dine-in • Takeaway • Delivery</p>
+        </div>
       </div>
     </footer>
   );
