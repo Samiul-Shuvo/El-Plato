@@ -4,11 +4,11 @@ El Plato is a beautifully designed restaurant web application built using React 
 
 ⸻
 
-🚀 Project Overview
+Project Overview
 
 This application is designed for restaurant order previews and billing. Menu items are dynamically fetched from a locally stored JSON file and rendered with engaging UI elements. Users can browse dishes, add them to the bill cart, and view a real-time order summary.
 
-💡 Future plans include implementing full user authentication and persistent cart storage.
+ Future plans include implementing full user authentication and persistent cart storage.
 
 ⸻
 
@@ -40,7 +40,7 @@ Navigate to: http://localhost:3000
 
 ⸻
 
-🌟 Key Features
+ Key Features
 	•	✅ Responsive Navigation Bar with logo and links
 	•	🔍 Search Functionality to find dishes quickly
 	•	🧑‍🍳 Hero Section introducing the brand and cuisine
@@ -54,13 +54,13 @@ Navigate to: http://localhost:3000
 
 ⸻
 
-⚙️ Technologies Used
+ Technologies Used
 
-Tech	Purpose
-React.js	Core JavaScript framework
-Tailwind CSS	Utility-first CSS framework
-DaisyUI	Tailwind-based UI components
-HTML5 & CSS3	Markup and styling
+Tech	            Purpose
+React.js	        Core JavaScript framework
+Tailwind CSS	    Utility-first CSS framework
+DaisyUI	            Tailwind-based UI components
+HTML5 & CSS3    	Markup and styling
 JavaScript (ES6+)	Logic & interactivity
 JSON (Local File)	Menu data storage & API simulation
 
@@ -87,12 +87,12 @@ src/
 ```
 
 ⸻
+### 📌 Upcoming Features
 
-📌 To-Do / Upcoming Features
-	•	User Login & Auth (JWT/Clerk/Firebase)
-	•	Backend integration for orders
-	•	Mobile-first improvements
-	•	Persistent cart with LocalStorage or Database
+- [ ] User Login & Auth (JWT / Clerk / Firebase)
+- [ ] Backend integration for orders
+- [ ] Mobile-first improvements
+- [ ] Persistent cart with LocalStorage or Database
 
 ⸻
 
