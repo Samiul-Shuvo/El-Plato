@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "category": "Pizza",
+    "name": "Margherita",
+    "description": "Classic pizza with tomato, mozzarella, and fresh basil.",
+    "price": 650,
+    "image": "https://i.ibb.co/05X79tL/pizza1.jpg",
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "category": "Pizza",
+    "name": "Pepperoni",
+    "description": "Spicy pepperoni with mozzarella and tomato base.",
+    "price": 750,
+    "image": "https://i.ibb.co/cKdBhYqS/pizza2.jpg",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "category": "Burger",
+    "name": "Classic Beef Burger",
+    "description": "Grilled beef patty, lettuce, tomato, onion, and house sauce.",
+    "price": 680,
+    "image": "https://i.ibb.co/Q37yPgDG/burger1.jpg",
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "category": "Burger",
+    "name": "Chicken Zinger Burger",
+    "description": "Crispy chicken fillet with lettuce and spicy mayo.",
+    "price": 630,
+    "image": "https://i.ibb.co/93zCh76L/burger2.jpg",
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "category": "Pasta",
+    "name": "Spaghetti Carbonara",
+    "description": "Spaghetti tossed with egg, parmesan, and crispy bacon.",
+    "price": 790,
+    "image": "https://i.ibb.co/SXvnVQkn/pasta1.jpg",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "category": "Pasta",
+    "name": "Penne Arrabiata",
+    "description": "Penne pasta in spicy tomato sauce with garlic and herbs.",
+    "price": 720,
+    "image": "https://i.ibb.co/MyRCTBBm/pasta2.jpg",
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "category": "Rice",
+    "name": "Chicken Biryani",
+    "description": "Aromatic basmati rice with spiced chicken and saffron.",
+    "price": 850,
+    "image": "https://i.ibb.co/XfL7q91Q/rice1.jpg",
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "category": "Rice",
+    "name": "Beef Fried Rice",
+    "description": "Wok-fried rice with beef, vegetables, and soy sauce.",
+    "price": 790,
+    "image": "https://i.ibb.co/chzc61Gt/rice2.jpg",
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "category": "Salad",
+    "name": "Greek Salad",
+    "description": "Fresh veggies with feta cheese, olives, and oregano.",
+    "price": 490,
+    "image": "https://i.ibb.co/0RZY4Fzs/salad2.jpg",
+    "rating": 3
+  },
+  {
+    "id": 10,
+    "category": "Salad",
+    "name": "Caesar Salad",
+    "description": "Romaine lettuce with Caesar dressing and croutons.",
+    "price": 540,
+    "image": "https://i.ibb.co/qLZy2k8N/salad1.jpg",
+    "rating": 4
+  }
+]
